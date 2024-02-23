@@ -19,4 +19,4 @@ requests==2.23.0
 <br>
 trafaret==2.0.2
 <br>
-urllib3==1.25.11
+urllib3==1.25.12
